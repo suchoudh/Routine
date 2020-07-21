@@ -92,6 +92,8 @@ while getopts ":b:d:e:y:h:" opt; do
       ;;
   esac
 done
-#===
+#=== Cleanup the temp files == 
+echo $WK_DATE_TIME > temp.tmp
+echo $WK_DATE_TIME > notes.tmp
 
 # Ran on 17_20200421-21_56

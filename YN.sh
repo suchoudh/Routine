@@ -14,7 +14,7 @@
 echo " This is a log for todays or yesterday " 
 echo " day starts at 0000 hrs and ends at 2400 hrs" 
 echo $myTemp  $RoutineHome is this 
-touch $NOW1/YNRanOn$WK_DATE_TIME.delme
+touch $NOW1/YN_RanOn$WK_DATE_TIME.delme
 
 cd $RoutineHome # Go to root folder and cycle through all log files.  
 

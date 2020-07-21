@@ -1,0 +1,746 @@
+QmmpPluginCache: loaded plugin libalsa.so
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+QmmpUiPluginCache: loaded plugin libskinned.so
+MainWindow: detected wm: i3
+Skin: using :/glare
+Skin: cannot find region.txt. Transparency disabled
+Visual: loaded plugin libanalyzer.so
+Visual: loaded plugin libgoom.so
+WindowSystem: setting sticky state of window 0x2e00004 to false.
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpPluginCache: loaded plugin libaac.so
+QmmpPluginCache: loaded plugin libarchive.so
+QmmpPluginCache: loaded plugin libcdaudio.so
+QmmpPluginCache: loaded plugin libcue.so
+QmmpPluginCache: loaded plugin libflac.so
+QmmpPluginCache: loaded plugin libgme.so
+QmmpPluginCache: loaded plugin libmodplug.so
+QmmpPluginCache: loaded plugin libmpc.so
+QmmpPluginCache: loaded plugin libmpeg.so
+QmmpPluginCache: loaded plugin libopus.so
+QmmpPluginCache: loaded plugin libsid.so
+QmmpPluginCache: loaded plugin libsndfile.so
+QmmpPluginCache: loaded plugin libvorbis.so
+QmmpPluginCache: loaded plugin libwavpack.so
+QmmpPluginCache: loaded plugin libwildmidi.so
+QmmpPluginCache: loaded plugin libffap.so
+QmmpPluginCache: loaded plugin libffmpeg.so
+QmmpPluginCache: loaded plugin libxmp.so
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1488
+DecoderMAD: Total time: 898873
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 29642 bytes skipped
+===== metadata ======
+ARTIST = Hariprasad Chaurasia
+TITLE = The Breath Of Life: Cosmic Wind - Prana, The Breath Of Life Pranayama
+ALBUMARTIST = Hariprasad Chaurasia
+ALBUM = The Elements - Wind
+COMMENT = The Breath Of Life: Cosmic Wind / Prana, The Breath Of Life / Pranayama
+Artists: Hariprasad Chaurasia (Flute), Pandit Jasraj (Vocals), Brij Narayan (Sarod), Farooque Ajmeri (Vibraphone), Narayan Mani (Veena), Sunil Das (Sitar)
+GENRE = Classical
+YEAR = 1995
+TRACK = 1
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 232
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 26058349
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 898873
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1488
+DecoderMAD: Total time: 898873
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 29642 bytes skipped
+===== metadata ======
+ARTIST = Hariprasad Chaurasia
+TITLE = The Breath Of Life: Cosmic Wind - Prana, The Breath Of Life Pranayama
+ALBUMARTIST = Hariprasad Chaurasia
+ALBUM = The Elements - Wind
+COMMENT = The Breath Of Life: Cosmic Wind / Prana, The Breath Of Life / Pranayama
+Artists: Hariprasad Chaurasia (Flute), Pandit Jasraj (Vocals), Brij Narayan (Sarod), Farooque Ajmeri (Vibraphone), Narayan Mani (Veena), Sunil Das (Sitar)
+GENRE = Classical
+YEAR = 1995
+TRACK = 1
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 232
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 26058349
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 898873
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 315280
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 26590 bytes skipped
+===== metadata ======
+ARTIST = Indian Ocean
+TITLE = Hille Le
+ALBUMARTIST = Indian Ocean
+ALBUM = Kandisa
+COMMENT = 
+GENRE = 
+YEAR = 2000
+TRACK = 4
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 5071077
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 315280
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 0
+DecoderMAD: Total time: 399020
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 17357 bytes skipped
+===== metadata ======
+ARTIST = Indian Ocean
+TITLE = Ma Rewa
+ALBUMARTIST = Indian Ocean
+ALBUM = Kandisa
+COMMENT = 
+GENRE = Unknown
+YEAR = 2000
+TRACK = 2
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6387587
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 399020
+== end of metadata ==
+void QmmpSettings::sync()
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2018-06-13T10:46:30.000000Z
+    title           : Voice 018_sd
+    track           : 18
+    com.android.version: 6.0.1
+  Duration: 01:20:38.48, start: 0.000000, bitrate: 130 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2018-06-13T10:46:30.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 4838481 
+MediaPlayer: next track state: received
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+OutputWriter: total written 70380288 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Playing; previous state: Stopped
+===== metadata ======
+ARTIST = 
+TITLE = Voice 018_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 18
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 78836196
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 4838481
+== end of metadata ==
+OutputALSA: buffer underrun!
+OutputALSA: buffer underrun!
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2018-06-17T10:40:00.000000Z
+    title           : Voice 019_sd
+    track           : 19
+    com.android.version: 6.0.1
+  Duration: 00:01:29.10, start: 0.000000, bitrate: 133 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2018-06-17T10:40:00.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 89095 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Voice 019_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 19
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 1483688
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 89095
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2018-06-17T10:49:06.000000Z
+    title           : Voice 020_sd
+    track           : 20
+    com.android.version: 6.0.1
+  Duration: 00:00:28.28, start: 0.000000, bitrate: 139 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2018-06-17T10:49:06.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 28282 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Voice 020_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 20
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 493277
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 28282
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2018-06-29T04:45:50.000000Z
+    title           : Voice 021_sd
+    track           : 21
+    com.android.version: 6.0.1
+  Duration: 00:00:40.12, start: 0.000000, bitrate: 136 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2018-06-29T04:45:50.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 40124 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Voice 021_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 21
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 686109
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 40124
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+SoundCore: input error: No such file or directory
+StateHandler: Current state: NormalError; previous state: Stopped
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 766680
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 15145 bytes skipped
+===== metadata ======
+ARTIST = Ravi Shankar
+TITLE = Raga Mala - A Garland of Ragas (IV. Mian Ki Malhar (Allegro))
+ALBUMARTIST = Ravi Shankar
+ALBUM = Sitar Concertos & Other Works
+COMMENT = 
+GENRE = Blues
+YEAR = 2005
+TRACK = 6
+DISCNUMBER = 2/2
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 12282139
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 766680
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 459900
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 10078 bytes skipped
+===== metadata ======
+ARTIST = Ravi Shankar
+TITLE = Raga: Devgiri Bilawal
+ALBUMARTIST = Ravi Shankar
+ALBUM = The Teacher - Key Works
+COMMENT = 
+GENRE = Blues
+YEAR = 2002
+TRACK = 3
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 7368562
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 459900
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 302790
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = Sarfarosh
+TITLE = Hoshwalon Ko Khabar Kya
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = www.public-demand.com
+GENRE = 
+YEAR = 1999
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 4844692
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 302790
+== end of metadata ==
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+OutputWriter: total written 53492224 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+QmmpPluginCache: loaded plugin libffvideo.so
+QmmpPluginCache: loaded plugin libmplayer.so
+StateHandler: Current state: NormalError; previous state: Buffering
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2016-09-21T10:30:25.000000Z
+    title           : Voice 013_sd
+    track           : 13
+    com.android.version: 6.0.1
+  Duration: 00:20:52.53, start: 0.000000, bitrate: 130 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2016-09-21T10:30:25.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 1252531 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Voice 013_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 13
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 20432412
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 1252531
+== end of metadata ==
+StateHandler: Current state: Paused; previous state: Playing
+StateHandler: Current state: Stopped; previous state: Paused
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2016-09-21T10:46:20.000000Z
+    title           : Voice 014_sd
+    track           : 14
+    com.android.version: 6.0.1
+  Duration: 00:14:12.34, start: 0.000000, bitrate: 130 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2016-09-21T10:46:20.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 852335 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Voice 014_sd
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 14
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 13914456
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 852335
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+Visual::~Visual()
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+void QmmpUiSettings::sync()
+PlayListManager: saving playlists...
+void QmmpSettings::sync()
