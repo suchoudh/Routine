@@ -17,7 +17,7 @@ echo $myTemp  $RoutineHome is this
 touch $NOW1/YN_RanOn$WK_DATE_TIME.delme
 
 cd $RoutineHome # Go to root folder and cycle through all log files.  
-
+echo "Use Dijo for YN" # 2020-07-21 Tue 05:25 PM trial phase 
 for file in *.yn
 
 do
