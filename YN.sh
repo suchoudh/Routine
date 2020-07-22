@@ -27,7 +27,7 @@ echo "                                          Editing file $file"
 echo "=================File : $file =========" 
 read -p "Press any key to resume ..."  
 echo $WK_DATE_TIME >> $file 
-vi +$$ "$file" 
+#vi +$$ "$file" 
 done
 clear # clears screen 
 echo Routine home is $RoutineHome 
