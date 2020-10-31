@@ -1,28 +1,29 @@
-########WeekNumber is 48#####***QuesAboutYesterday.sh ##################################
-##   File                : QuesAboutYesterday.sh 
+########WeekNumber is 35 in year 2020#####***QuesAboutYesterday.sh ##################################
+##   File                : Num.sh 
 ##   Creation DateTime   :48_20191126-22_52_52
-##   Last Updated Date   :48_20191126-22_52_52 
+##   Last Updated Date   :2020-09-06 Sun 10:45 PM
 ##   Author              : Sunil Choudhary 
-##   Remarks             : Entry point is Options.sh and not to be used without it 
-
+##   Remarks             : Those metrics that track numerical metrics  
 ##########111#############################################################
-# . ./setupEnv.sh  # Must remove as resets the yesterday flag. 
+
+# Setting up env 
+. ./setupEnv.sh  # Commented and to be removed as resets the Yesterday flag 
 echo " This is a log for todays or yesterday " 
 echo " day starts at 0000 hrs and ends at 2400 hrs" 
-touch $NOW1/Dev_RanOn$WK_DATE_TIME.delme
+touch $NOW1/Num_ran_on_$WK_DATE_TIME.delme
 
 cd $RoutineHome # Go to root folder and cycle through all log files.  
 
-for file in *.dev
+for file in *NUM.*
 
 do
 # do something on $file 
 clear 
-ls -ltr  *.dev
-#find . -name '*.dev' -mmin +14 -exec ls -ltrh {} \;
+ls -ltr *NUM.*    
 echo "                                          Editing file $file" 
 echo "=================File : $file =========" 
 read -p "Press any key to resume ..."
+
 
 echo $WK_DATE_TIME >> $file 
 vi +$$ "$file" 

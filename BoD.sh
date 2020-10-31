@@ -19,8 +19,8 @@ for file in *.BoD
 do
 # do something on $file 
 clear 
-# ls -ltr  *.BoD 
-find . -name '*.BoD' -mmin +14 -exec ls -ltrh {} \; # List files older than 14 min 
+ls -ltr  *.BoD 
+#find . -name '*.BoD' -mmin +14 -exec ls {} \; # List files older than 14 min 
 echo "                                          Editing file $file" 
 echo "=================File : $file =========" 
 read -p "Press any key to resume ..."

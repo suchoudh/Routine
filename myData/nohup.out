@@ -1,0 +1,1334 @@
+QmmpPluginCache: loaded plugin libalsa.so
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+QmmpUiPluginCache: loaded plugin libskinned.so
+MainWindow: detected wm: i3
+Skin: using :/glare
+Skin: cannot find region.txt. Transparency disabled
+Visual: loaded plugin libanalyzer.so
+Visual: loaded plugin libgoom.so
+Visual: added visualization: Analyzer Plugin
+Object::connect: No such signal SoundCore::metaDataChanged()
+Visual: added visualization: Goom
+WindowSystem: setting sticky state of window 0x1200004 to false.
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpPluginCache: loaded plugin libaac.so
+QmmpPluginCache: loaded plugin libarchive.so
+QmmpPluginCache: loaded plugin libcdaudio.so
+QmmpPluginCache: loaded plugin libcue.so
+QmmpPluginCache: loaded plugin libflac.so
+QmmpPluginCache: loaded plugin libgme.so
+QmmpPluginCache: loaded plugin libmodplug.so
+QmmpPluginCache: loaded plugin libmpc.so
+QmmpPluginCache: loaded plugin libmpeg.so
+QmmpPluginCache: loaded plugin libopus.so
+QmmpPluginCache: loaded plugin libsid.so
+QmmpPluginCache: loaded plugin libsndfile.so
+QmmpPluginCache: loaded plugin libvorbis.so
+QmmpPluginCache: loaded plugin libwavpack.so
+QmmpPluginCache: loaded plugin libwildmidi.so
+QmmpPluginCache: loaded plugin libffap.so
+QmmpPluginCache: loaded plugin libffmpeg.so
+QmmpPluginCache: loaded plugin libxmp.so
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1272
+DecoderMAD: Total time: 319268
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 66101 bytes skipped
+===== metadata ======
+ARTIST = Mohit Chauhan
+TITLE = Ala Barfi
+ALBUMARTIST = Pritam
+ALBUM = Barfi!
+COMMENT = www.Songs.PK
+GENRE = Bollywood Music
+YEAR = 2012
+TRACK = 5
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 164
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6596736
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 319268
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1272
+DecoderMAD: Total time: 319268
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 66101 bytes skipped
+===== metadata ======
+ARTIST = Mohit Chauhan
+TITLE = Ala Barfi
+ALBUMARTIST = Pritam
+ALBUM = Barfi!
+COMMENT = www.Songs.PK
+GENRE = Bollywood Music
+YEAR = 2012
+TRACK = 5
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 164
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6596736
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 319268
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1272
+DecoderMAD: Total time: 319268
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 66101 bytes skipped
+===== metadata ======
+ARTIST = Mohit Chauhan
+TITLE = Ala Barfi
+ALBUMARTIST = Pritam
+ALBUM = Barfi!
+COMMENT = www.Songs.PK
+GENRE = Bollywood Music
+YEAR = 2012
+TRACK = 5
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 164
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6596736
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 319268
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1272
+DecoderMAD: Total time: 319268
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 66101 bytes skipped
+===== metadata ======
+ARTIST = Mohit Chauhan
+TITLE = Ala Barfi
+ALBUMARTIST = Pritam
+ALBUM = Barfi!
+COMMENT = www.Songs.PK
+GENRE = Bollywood Music
+YEAR = 2012
+TRACK = 5
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 164
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6596736
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 319268
+== end of metadata ==
+Extented MMX detected. Using the fastest methods !
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: vorbis
+DecoderVorbis: initialize
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = Ustad Sultan Khan&Ustad Zakir Hussain
+TITLE = Raag Malkaus - Alaap & Rachna - Teentaal and ektaal
+ALBUMARTIST = Ustad Sultan Khan & Ustad Zakir Hussain
+ALBUM = Thought N Beats
+COMMENT = 
+GENRE = Indian Classical
+YEAR = 1994
+TRACK = 2
+DISCNUMBER = 1
+---------------------
+BITRATE = 181
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = Ogg Vorbis
+DECODER = vorbis
+FILE_SIZE = 40837570
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 1806133
+== end of metadata ==
+===== metadata ======
+ARTIST = Ustad Sultan Khan&Ustad Zakir Hussain
+TITLE = Raag Malkaus - Alaap & Rachna - Teentaal and ektaal
+ALBUMARTIST = 
+ALBUM = Thought N Beats
+COMMENT = 
+GENRE = Indian Classical
+YEAR = 1994
+TRACK = 2
+DISCNUMBER = 1
+---------------------
+BITRATE = 181
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = Ogg Vorbis
+DECODER = vorbis
+FILE_SIZE = 40837570
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 1806133
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 244400
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 1116 bytes skipped
+===== metadata ======
+ARTIST = artist
+TITLE = Track 13
+ALBUMARTIST = 
+ALBUM = title
+COMMENT = 
+GENRE = genre
+YEAR = 
+TRACK = 13
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3911552
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 244400
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 925040
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 2163 bytes skipped
+===== metadata ======
+ARTIST = 
+TITLE = 02] Alap, Jor
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 2
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 14802944
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 925040
+== end of metadata ==
+Visual::~Visual()
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+OutputWriter: total written 163173888 
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+QmmpPluginCache: loaded plugin libffvideo.so
+QmmpPluginCache: loaded plugin libmplayer.so
+StateHandler: Current state: NormalError; previous state: Buffering
+OutputALSA: closing pcm_handle
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 745500
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 246 bytes skipped
+===== metadata ======
+ARTIST = 
+TITLE = Mein nazar se pee raha hun
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 11928393
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 745500
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 256940
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 1327 bytes skipped
+===== metadata ======
+ARTIST = Beyonce [www.drdre.blogfa.com - Hey Baby Eminem Is The King Of Rap]
+TITLE = Irreplaceable [www.drdre.blogfa.com - Hey Baby Eminem Is The King Of Rap]
+ALBUMARTIST = 
+ALBUM = B ' Day [www.drdre.blogfa.com - Hey Baby Eminem Is The King Of Rap]
+COMMENT = [www.drdre.blogfa.com][3.92MB - 4 Min/16 Sec - 128 Kbps - Mp3][My ID And E-Mail : hasanhasanesuad67@yahoo.com][Iran-Mashad City][Nightmare - Label : £MIN3M][Hey Baby Eminem Is The King Of Rap]
+GENRE = Pop/R'n'B [www.drdre.blogfa.com - Hey Baby Eminem Is The King Of Rap]
+YEAR = 2006
+TRACK = 9
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 4112384
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 256940
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 297380
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+OutputWriter: total written 45406720 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 22050 Hz, {FL,FR}, float ==> 22050 Hz, {FL,FR}, s16le
+StateHandler: Current state: Playing; previous state: Stopped
+===== metadata ======
+ARTIST = 
+TITLE = 
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 56
+SAMPLERATE = 22050
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-2 layer 3
+DECODER = mpeg
+FILE_SIZE = 2081671
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 297380
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 288
+DecoderMAD: Total time: 309159
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+OutputWriter: total written 26350848 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Playing; previous state: Stopped
+DecoderMAD: 13107 bytes skipped
+===== metadata ======
+ARTIST = The Rolling Stones
+TITLE = It's Only Rock 'n' Roll (but I Like It)
+ALBUMARTIST = The Rolling Stones
+ALBUM = Greatest Hits, Part 1
+COMMENT = 000004EB 0000043A 000027D9 00001B13 00031960 0003060F 00008000 00008000 00024C1E 00024C1E
+GENRE = Rock
+YEAR = 2008
+TRACK = 14
+DISCNUMBER = 2/2
+---------------------
+BITRATE = 258
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 9985423
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 309159
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+OutputWriter: total written 54534528 
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Buffering
+OutputALSA: closing pcm_handle
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1536
+DecoderMAD: Total time: 280581
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 187256 bytes skipped
+===== metadata ======
+ARTIST = Louis Armstrong
+TITLE = Someday
+ALBUMARTIST = Louis Armstrong
+ALBUM = An Evening With Louis Armstrong And His All Stars
+COMMENT = 
+GENRE = Jazz
+YEAR = 1956
+TRACK = 4
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 320
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 11411687
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 280581
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: Total time: 315872
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 2570 bytes skipped
+===== metadata ======
+ARTIST = UMI 10
+TITLE = Man Kyon Behka Re Behka
+ALBUMARTIST = UMI 10
+ALBUM = Volume 3
+COMMENT = http://www.look4sound.net
+GENRE = 
+YEAR = 2002
+TRACK = 4
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 94
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3696768
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 315872
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 270400
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 6834 bytes skipped
+===== metadata ======
+ARTIST = Lata Mangeshkar
+TITLE = Jai Ram Rama Ramanam Sharanam
+ALBUMARTIST = Lata Mangeshkar
+ALBUM = Ram Ratan Dhan Payo
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 1
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 4333268
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 270400
+== end of metadata ==
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+OutputWriter: total written 47783424 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Buffering
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 591150
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 02 meeting of heart
+TITLE = 02 meeting of heart
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = Blues
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 9458544
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 591150
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 201220
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 1826 bytes skipped
+===== metadata ======
+ARTIST = artist
+TITLE = Track 07
+ALBUMARTIST = 
+ALBUM = title
+COMMENT = 
+GENRE = genre
+YEAR = 
+TRACK = 7
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3221376
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 201220
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 205820
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 14195 bytes skipped
+===== metadata ======
+ARTIST = Salil Chowdhury
+TITLE = Zulmi Sang Aankh Ladi (Madhumati 1958)
+ALBUMARTIST = Various Artists
+ALBUM = Nagin, 1954 & Madhumati, 1958
+COMMENT = 
+GENRE = Indian Movie
+YEAR = 1979
+TRACK = 18
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3307346
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 205820
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 626440
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+ReplayGain: disabled
+Dithering: disabled
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 13042 bytes skipped
+===== metadata ======
+ARTIST = Led Zeppelin
+TITLE = Achilles Last Stand
+ALBUMARTIST = Led Zeppelin
+ALBUM = Presence
+COMMENT = by ASTEREOGNOSIS
+GENRE = Rock
+YEAR = 2012
+TRACK = 1
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 10036159
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 626440
+== end of metadata ==
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+MediaPlayer: next track state: received
+DecoderMAD: end of file
+DecoderMAD: deleting input_buf
+OutputWriter: total written 110842368 
+StateHandler: Current state: Stopped; previous state: Playing
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Buffering
+OutputALSA: closing pcm_handle
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Stopped
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Stopped
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: ffmpeg
+DecoderFFmpeg: detected format: QuickTime / MOV
+=mov,mp4,m4a,3gp,3g2,mj2=
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '(null)':
+  Metadata:
+    major_brand     : 3gp4
+    minor_version   : 0
+    compatible_brands: isom3gp4
+    creation_time   : 2018-09-30T13:52:51.000000Z
+    title           : Kakoli maam
+    com.android.version: 6.0.1
+  Duration: 00:11:21.90, start: 0.000000, bitrate: 130 kb/s
+    Stream #0:0(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2018-09-30T13:52:51.000000Z
+      handler_name    : SoundHandle
+Decoder: using internal channel order
+DecoderFFmpeg: initialize succes
+DecoderFFmpeg: total time = 681900 
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL}, float ==> 44100 Hz, {FL}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = Kakoli maam
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 1
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = aac
+DECODER = ffmpeg
+FILE_SIZE = 11138603
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 681900
+== end of metadata ==
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 400450
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = Sting
+TITLE = The Wild Wild Sea
+ALBUMARTIST = Sting
+ALBUM = The Soul Cages
+COMMENT = Sting
+GENRE = Pop/Rock
+YEAR = 1991
+TRACK = 7
+DISCNUMBER = 1/1
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 6411480
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 400450
+== end of metadata ==
+DecoderMAD: 4227 bytes skipped
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 263630
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = Kishore Kumar
+TITLE = Kuchh To Log Kahenge [Amar Prem]
+ALBUMARTIST = Kishore Kumar
+ALBUM = The Golden Collection: Kishore Kumar
+COMMENT = 
+GENRE = genre
+YEAR = 2006
+TRACK = 13
+DISCNUMBER = 2/2
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 4233704
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 263630
+== end of metadata ==
+DecoderMAD: 15522 bytes skipped
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Xing header found
+DecoderMAD: LAME header found
+DecoderMAD: samples to skip: 576, padding: 1212
+DecoderMAD: Total time: 143333
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 2442 bytes skipped
+===== metadata ======
+ARTIST = The Rolling Stones
+TITLE = Rip This Joint
+ALBUMARTIST = 
+ALBUM = Exile on Main Street (Remastered) (Deluxe Edition)
+COMMENT = 00002F29 00002AF9 0000E127 0000E3B3 0001AC4C 0001AD1D 00008000 00008000 00000BCA 00000A9C
+GENRE = Rock
+YEAR = 2010
+TRACK = 2
+DISCNUMBER = 1/2
+---------------------
+BITRATE = 198
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3544735
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 143333
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 218200
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: 617 bytes skipped
+===== metadata ======
+ARTIST = 
+TITLE = 6 kanha re kanha
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 4
+DISCNUMBER = 
+---------------------
+BITRATE = 128
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 3491840
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 218200
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: VBR detected
+DecoderMAD: Total time: 26
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+DecoderMAD: end of file
+===== metadata ======
+ARTIST = 
+TITLE = 
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 1
+DECODER = mpeg
+FILE_SIZE = 280536
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.000000
+REPLAYGAIN_TRACK_PEAK = 0.000000
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 26
+== end of metadata ==
+DecoderMAD: deleting input_buf
+OutputWriter: total written 1536 
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Buffering; previous state: Stopped
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Buffering
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Can't find a valid MPEG header.
+QmmpAudioEngine: invalid file format
+DecoderMAD: deleting input_buf
+StateHandler: Current state: NormalError; previous state: Stopped
+virtual void FFmpegEngine::stop()
+~MplayerEngine
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+StateHandler: Current state: Stopped; previous state: NormalError
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+InputSource: using file transport
+QmmpAudioEngine: selected decoder: mpeg
+DecoderMPEGFactory: using MAD decoder
+DecoderMAD: Fixed rate detected
+DecoderMAD: Total time: 1493070
+ReplayGain: disabled
+Dithering: disabled
+OutputALSA: can pause: 0
+OutputALSA: Unable to receive current channel map
+OutputWriter: [alsa] 44100 Hz, {FL,FR}, float ==> 44100 Hz, {FL,FR}, s16le
+StateHandler: Current state: Buffering; previous state: Stopped
+StateHandler: Current state: Playing; previous state: Buffering
+===== metadata ======
+ARTIST = 
+TITLE = 
+ALBUMARTIST = 
+ALBUM = 
+COMMENT = 
+GENRE = 
+YEAR = 
+TRACK = 
+DISCNUMBER = 
+---------------------
+BITRATE = 160
+SAMPLERATE = 44100
+CHANNELS = 2
+BITS_PER_SAMPLE = 32
+FORMAT_NAME = MPEG-1 layer 3
+DECODER = mpeg
+FILE_SIZE = 29861428
+---------------------
+REPLAYGAIN_TRACK_GAIN = 0.025000
+REPLAYGAIN_TRACK_PEAK = 0.331073
+REPLAYGAIN_ALBUM_GAIN = 0.000000
+REPLAYGAIN_ALBUM_PEAK = 0.000000
+---------------------
+DURATION = 1493070
+== end of metadata ==
+DecoderMAD: deleting input_buf
+StateHandler: Current state: Stopped; previous state: Playing
+OutputALSA: closing pcm_handle
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+Visual::~Visual()
+Visual::~Visual()
+Visual::~Visual()
+Visual::~Visual()
+OutputALSA: setupMixer()
+OutputALSA: Failed to find mixer element
+void QmmpUiSettings::sync()
+PlayListManager: saving playlists...
+void QmmpSettings::sync()

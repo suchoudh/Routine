@@ -1,3 +1,29 @@
+#~~ ~~~~~WeekNumber is 43~~~~~***README.md ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~   File                : README.md 
+#~~   Creation DateTime   :44_20201029-19_45
+#~~   Last Updated Date   :44_20201029-19_45 
+#~~   End Date	
+#~~   Author              : Sunil Choudhary 
+#~~   Remarks             : Routine_Learnings_3Yrs 
+#~~                              1) This is first point 
+#~~ ~~~~~~~~111~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2020-10-29 Thu 07:45 PM
+
+1) Mind does not work alone. Body and Mind Exist together Need of kashyap Routines need to be followed esp of early bath and pooja and proper excercise. 
+
+2) This world you consider to be outside is what is your playground. your Kurushetra. Do not try to run away from it Embrace it. 
+
+3) Do not take yourself seriously. Its all a game ( for Her) Make it worth watching ( for Her) 
+
+4) Cleanliness and Being Presentable are my Weaknesses need to pay special attention to both of them 
+
+5) Pooja decide your place and time and stick to it. for predecided days / weeks / months. 
+
+----------------------------------* --------------------------
+
+
+#aaaa 
 # 3400_Routine
 	added myData in gitignore 
 2020-07-16 Thu 05:35 PM
@@ -19,3 +45,4 @@ So Consolidate your pointers that you note in terms of two levels
 	Accept that you get up late and it is your disposition. 
 	Use Zettlekasten to do the contacts work This will work like a miracle.
 
+#~~ Ran on 44_20201029-19_45

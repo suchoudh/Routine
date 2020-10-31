@@ -22,7 +22,8 @@ for file in *.yn
 
 do
 # do something on $file 
-find . -name '*.yn' -mmin +14 -exec ls -ltrh {} \;
+ls -ltrh *.yn 
+# find . -name '*.yn' -mmin +14 -exec ls -ltrh {} \;
 echo "                                          Editing file $file" 
 echo "=================File : $file =========" 
 read -p "Press any key to resume ..."  

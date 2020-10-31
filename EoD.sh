@@ -20,7 +20,8 @@ for file in *.EoD
 do
 # do something on $file 
 clear 
-find . -name '*.EoD' -mmin +14 -exec ls -ltrh {} \;
+ls -ltr *.EoD
+#find . -name '*.EoD' -mmin +14 -exec ls -ltrh {} \;
 echo "                                          Editing file $file" 
 echo "=================File : $file =========" 
 sleep 2 
